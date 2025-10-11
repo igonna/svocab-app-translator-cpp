@@ -1,0 +1,1 @@
+# svocab-app-translator-cpp
